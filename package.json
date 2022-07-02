@@ -1,0 +1,21 @@
+{
+  "name": "library-library",
+  "version": "1.0.0",
+  "description": "> ⭐️ 1K이상의 라이브러리를 모아놓는 저장소",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node ./src/parse.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkrdmstlr3/library-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qkrdmstlr3/library-library/issues"
+  },
+  "homepage": "https://github.com/qkrdmstlr3/library-library#readme",
+}
