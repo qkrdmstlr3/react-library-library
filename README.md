@@ -2,12 +2,6 @@
 
 > ⭐️ 1K이상의 라이브러리를 모아놓는 저장소
 
-**템플릿**
-
-```markdown
-- ![stars](https://img.shields.io/github/stars/) [](https://github.com/)
-```
-
 ## 분류
 
 ### 모노레포
