@@ -59,6 +59,12 @@
 | gatsby | ![stars](https://img.shields.io/github/stars/gatsbyjs/gatsby) | [github](https://github.com/gatsbyjs/gatsby) | [npm](https://www.npmjs.com/package/gatsby) | [docs](https://www.gatsbyjs.com/)  |
 | remix  | ![stars](https://img.shields.io/github/stars/remix-run/remix) | [github](https://github.com/remix-run/remix) | [npm](https://www.npmjs.com/package/remix)  | [docs](https://remix.run/)         |
 
+### 언어
+
+| name       | stars                                                              | github                                            | npm                                             | docs                                    |
+| ---------- | ------------------------------------------------------------------ | ------------------------------------------------- | ----------------------------------------------- | --------------------------------------- |
+| typescript | ![stars](https://img.shields.io/github/stars/Microsoft/TypeScript) | [github](https://github.com/Microsoft/TypeScript) | [npm](https://www.npmjs.com/package/typescript) | [docs](https://www.typescriptlang.org/) |
+
 ### 미분류
 
 | name        | stars                                                          | github                                        | npm                                                  | docs                                  |
