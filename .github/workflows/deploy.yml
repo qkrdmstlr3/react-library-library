@@ -1,0 +1,19 @@
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source code.
+        uses: actions/checkout@v2
+      - name: parse README.md
+        run: yarn parse
+      - name: upload to s3
+        env:
+          AWS_ACCESS_KEY_ID: "$"
+          AWS_SECRET_ACCESS_KEY: "$"
+        run: aws s3 cp --region ap-northeast-2 ./relili.json s3://relili/relili.json

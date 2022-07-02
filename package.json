@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build": "node ./src/parse.js"
+    "parse": "node ./src/parse.js"
   },
   "repository": {
     "type": "git",
