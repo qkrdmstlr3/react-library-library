@@ -2,6 +2,29 @@
 
 > ⭐️ 1K이상의 리액트와 연관된 라이브러리를 모아놓는 저장소
 
+## Quick Start
+
+**install**
+
+```
+npm install -g relili
+yarn global add relili
+```
+
+**show list**
+
+```
+relili list
+```
+
+## Workflow
+
+1. README.md에 라이브러리 추가/수정 후 main브랜치에 PR/Push
+2. Github Action이 README.md를 파싱한 relili.json을 S3버킷에 저장
+3. cli명령어 실행 시 S3에서 최신의 relili.json을 가져와 동작 수행
+
+## 라이브러리 리스트
+
 ### 모노레포
 
 | name         | stars                                                             | github                                           | npm                                               | docs                                                 |
