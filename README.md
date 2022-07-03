@@ -23,6 +23,11 @@ relili list
 2. Github Action이 README.md를 파싱한 relili.json을 S3버킷에 저장
 3. cli명령어 실행 시 S3에서 최신의 relili.json을 가져와 동작 수행
 
+## PLAN
+
+- [ ] typescript
+- [ ] multi select & install
+
 ## 라이브러리 리스트
 
 ### 모노레포
