@@ -84,9 +84,10 @@ relili list
 
 ### 언어
 
-| name       | stars                                                              | github                                            | npm                                             | docs                                    |
-| ---------- | ------------------------------------------------------------------ | ------------------------------------------------- | ----------------------------------------------- | --------------------------------------- |
-| typescript | ![stars](https://img.shields.io/github/stars/Microsoft/TypeScript) | [github](https://github.com/Microsoft/TypeScript) | [npm](https://www.npmjs.com/package/typescript) | [docs](https://www.typescriptlang.org/) |
+| name       | stars                                                                         | github                                                       | npm                                             | docs                                    |
+| ---------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------- | --------------------------------------- |
+| typescript | ![stars](https://img.shields.io/github/stars/Microsoft/TypeScript)            | [github](https://github.com/Microsoft/TypeScript)            | [npm](https://www.npmjs.com/package/typescript) | [docs](https://www.typescriptlang.org/) |
+| rescript   | ![stars](https://img.shields.io/github/stars/rescript-lang/rescript-compiler) | [github](https://github.com/rescript-lang/rescript-compiler) | [npm](https://www.npmjs.com/package/rescript)   | [docs](https://rescript-lang.org/)      |
 
 ### 미분류
 
