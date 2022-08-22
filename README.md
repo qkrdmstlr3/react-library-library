@@ -49,13 +49,15 @@ relili list
 | recoil | ![stars](https://img.shields.io/github/stars/facebookexperimental/Recoil) | [github](https://github.com/facebookexperimental/Recoil) | [npm](https://www.npmjs.com/package/recoil) | [docs](https://recoiljs.org/)           |
 | xstate | ![stars](https://img.shields.io/github/stars/statelyai/xstate)            | [github](https://github.com/statelyai/xstate)            | [npm](https://www.npmjs.com/package/xstate) | [docs](https://xstate.js.org/docs/)     |
 
-### CSS-in-js
+### CSS
 
-| name              | stars                                                                             | github                                                           | npm                                                    | docs                                         |
-| ----------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------- |
-| styled components | ![stars](https://img.shields.io/github/stars/styled-components/styled-components) | [github](https://github.com/styled-components/styled-components) | [npm](https://www.npmjs.com/package/styled-components) | [docs](https://styled-components.com/)       |
-| @emotion/react    | ![stars](https://img.shields.io/github/stars/emotion-js/emotion)                  | [github](https://github.com/emotion-js/emotion)                  | [npm](https://www.npmjs.com/package/@emotion/react)    | [docs](https://emotion.sh/docs/introduction) |
-| @stitches/react   | ![stars](https://img.shields.io/github/stars/stitchesjs/stitches)                 | [github](https://github.com/stitchesjs/stitches)                 | [npm](https://www.npmjs.com/package/@stitches/react)   | [docs](https://stitches.dev/)                |
+| name              | stars                                                                             | github                                                           | npm                                                       | docs                                         |
+| ----------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------- |
+| styled components | ![stars](https://img.shields.io/github/stars/styled-components/styled-components) | [github](https://github.com/styled-components/styled-components) | [npm](https://www.npmjs.com/package/styled-components)    | [docs](https://styled-components.com/)       |
+| @emotion/react    | ![stars](https://img.shields.io/github/stars/emotion-js/emotion)                  | [github](https://github.com/emotion-js/emotion)                  | [npm](https://www.npmjs.com/package/@emotion/react)       | [docs](https://emotion.sh/docs/introduction) |
+| @stitches/react   | ![stars](https://img.shields.io/github/stars/stitchesjs/stitches)                 | [github](https://github.com/stitchesjs/stitches)                 | [npm](https://www.npmjs.com/package/@stitches/react)      | [docs](https://stitches.dev/)                |
+| vanilla-extract   | ![stars](https://img.shields.io/github/stars/seek-oss/vanilla-extract)            | [github](https://github.com/seek-oss/vanilla-extract)            | [npm](https://www.npmjs.com/package/@vanilla-extract/css) | [docs](https://vanilla-extract.style/)       |
+| clsx              | ![stars](https://img.shields.io/github/stars/lukeed/clsx)                         | [github](https://github.com/lukeed/clsx)                         | [npm](https://www.npmjs.com/package/clsx)                 | [docs](https://github.com/lukeed/clsx)       |
 
 ### Headless
 
